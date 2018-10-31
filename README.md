@@ -4,7 +4,7 @@ A small program that takes a picture and outputs the same image with a semi tran
 
 #Example
 
-  <img src="https://raw.githubusercontent.com/Jerry-G/Postering/master/images/mallard.jpg" width="512">
+  <img align="center" src="https://raw.githubusercontent.com/Jerry-G/Postering/master/images/mallard.jpg" width="512">
 
 
-  <img src="https://raw.githubusercontent.com/Jerry-G/Postering/master/images/out.jpg" width="512">
+  <img align="center" src="https://raw.githubusercontent.com/Jerry-G/Postering/master/images/out.jpg" width="512">
